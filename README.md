@@ -1,0 +1,1 @@
+ddn build sm --env app.CONURI="postgresql://read_only_user:readonlyuser@35.236.11.122:5432/v3-docs-sample-app"
